@@ -1,6 +1,4 @@
 # Sample Terraform Code
-[![Build Status]((http://188.166.202.39/)buildStatus/icon?job=terraform)](http://188.166.202.39/job/terraform/)
-
 
 ## Youtube Video URL
 [How to Use Terraform and Jenkins to Automate Infrastructure Setup](https://youtu.be/kIDiP3Unj7Y)
