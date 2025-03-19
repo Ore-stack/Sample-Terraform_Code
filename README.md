@@ -10,6 +10,6 @@ terraform destroy -auto-approve
 ## Youtube Video URL
 [How to Use Terraform and Jenkins to Automate Infrastructure Setup](https://youtu.be/kIDiP3Unj7Y)
 </br>
-Related repo: [https://github.com/kunchalavikram1427/jenkins_terraform_intergration](https://github.com/Ore-stack/Jenkins-Terraform-Integration).
+Related repo: (https://github.com/Ore-stack/Jenkins-Terraform-Integration).
 ## Author
 - Vikram K (www.youtube.com/c/devopsmadeeasy)
